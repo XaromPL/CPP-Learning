@@ -1,4 +1,4 @@
-# Wszystkie zadania wubtinego nauczyciela informatyki i nie tylko
+# Wszystkie zadania wybtinego nauczyciela informatyki uczonego w najlepszych szkolach na swiecie i nie tylko
 
 **1. Zliczanie znakow**
 
