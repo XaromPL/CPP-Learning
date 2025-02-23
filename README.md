@@ -13,3 +13,7 @@
 **6. Dodawanie ulamkow**
 
 **7. Garaz**
+
+**8. Napisy (Pożyczone na czas nie określony)**
+
+**9. Przeliczanie pomiędzy systemami (Pożyczone na czas nie określony)**
