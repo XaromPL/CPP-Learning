@@ -19,3 +19,5 @@
 **9. Przeliczanie pomiędzy systemami (Pożyczone na czas nie określony)**
 
 **10. Analiza tekstów**
+
+**11. Silnia**
