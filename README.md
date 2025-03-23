@@ -21,3 +21,11 @@
 **10. Analiza tekstów**
 
 **11. Silnia**
+
+**12. Zadania bojowe na kartkówkę**
+  *-Ciag Fibonacciego*
+  *-Quicksort*
+  *-Silnia*
+  *-Sortowanie Bąbelkowe*
+
+  
