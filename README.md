@@ -23,9 +23,13 @@
 **11. Silnia**
 
 **12. Zadania bojowe na kartkówkę**
+
   *-Ciag Fibonacciego*
+  
   *-Quicksort*
+  
   *-Silnia*
+  
   *-Sortowanie Bąbelkowe*
 
   
