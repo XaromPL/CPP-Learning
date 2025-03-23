@@ -24,12 +24,12 @@
 
 **12. Zadania bojowe na kartkówkę**
 
-  *-Ciag Fibonacciego*
-  
-  *-Quicksort*
-  
-  *-Silnia*
-  
-  *-Sortowanie Bąbelkowe*
+     *-Ciag Fibonacciego*
+     
+     *-Quicksort*
+     
+     *-Silnia*
+     
+     *-Sortowanie Bąbelkowe*
 
   
